@@ -1,0 +1,11 @@
+.manage{
+    background-color: brown;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    font-weight: 400;
+}

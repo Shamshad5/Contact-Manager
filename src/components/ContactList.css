@@ -1,0 +1,25 @@
+.list{
+   display: flex;
+   justify-content:space-around;
+   border: 2px solid brown;
+   margin:0.5rem;
+   background-color: lightcoral;
+
+}
+
+.valname,.valmail{
+   font-size: large;
+   font-weight: 500;
+   padding: 5px;
+
+}
+.items{
+   border-width: 1px solid;
+}
+
+.icon{
+   padding: 5px;
+   justify-content: center;
+   align-items: center;
+}
+
